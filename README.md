@@ -2,7 +2,7 @@
 
 ## Completely Custom, Open Source Maps with TileMill
 
-This is supporting material for a presentation given by @incanus at [Open Source Bridge](http://opensourcebridge.org) 2013 in Portland, Oregon, on [TileMill](http://tilemill.com) by [MapBox](http://mapbox.com). 
+This is supporting material for a presentation given by [@incanus](http://github.com/incanus) at [Open Source Bridge](http://opensourcebridge.org) 2013 in Portland, Oregon, on [TileMill](http://tilemill.com) by [MapBox](http://mapbox.com). 
 
 > Map making doesn't have to be hard. Anyone can do it. And we'll show you how, using the open source design studio TileMill. Come make a map!
 
