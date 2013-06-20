@@ -20,4 +20,4 @@ Grab these data sets to make the complete map. Attribution info in [sources.md](
 
 ### Final Map
 
-You can see a MapBox-hosted final version of the map at [online](http://a.tiles.mapbox.com/v3/justin.osb_food_carts/page.html), suitable for use in websites or apps with [MapBox.js](http://mapbox.com/mapbox.js) or the [MapBox iOS SDK](http://mapbox.com/mapbox-ios-sdk), or you can download the [MBTiles](http://mbtiles.org) export [directly](https://dl.dropboxusercontent.com/u/575564/osb_food_carts.mbtiles) (~209MB, remote) for use offline. 
+You can see a MapBox-hosted final version of the map [online](http://a.tiles.mapbox.com/v3/justin.osb_food_carts/page.html), suitable for use in websites or apps with [MapBox.js](http://mapbox.com/mapbox.js) or the [MapBox iOS SDK](http://mapbox.com/mapbox-ios-sdk), or you can download the [MBTiles](http://mbtiles.org) export [directly](https://dl.dropboxusercontent.com/u/575564/osb_food_carts.mbtiles) (~209MB, remote) for use offline. 
